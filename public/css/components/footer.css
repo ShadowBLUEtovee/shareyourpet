@@ -1,0 +1,21 @@
+footer {
+  height: 100px;
+  background-color: #FF0000;
+}
+
+footer .footer-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding: 10px 0;
+}
+
+footer .col-3 {
+  width: 30%;
+  margin: 0 1%;
+}
+
+footer .footer-wrapper .col-3:first-child,
+footer .footer-wrapper .col-3:last-child {
+  margin: 0;
+}

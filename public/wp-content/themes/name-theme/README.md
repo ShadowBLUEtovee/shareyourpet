@@ -1,1 +1,0 @@
-# wordpress-blank-theme

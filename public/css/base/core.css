@@ -1,0 +1,20 @@
+/**
+* Setup for root and other stuff
+**/
+
+:root {
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+.main:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.center {
+  width: 1200px;
+  margin: 0 auto;
+}
